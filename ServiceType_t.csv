@@ -23,8 +23,10 @@ ngi.OpsPortal,[Regional service] NGI-level regional operations portal instance ,
 OpenSSH,ssh server ,Recommended
 org.dcache.storage,<missing>,Recommended
 org.glite.AMGA,glite metadata catalogue ,Recommended
-org.glite.Argus,Argus Service,Recommended
-org.glite.argus,Argus service,Recommended
+org.glite.Argus,Argus Authorization Service,Recommended
+org.glite.Argus.PAP,Argus PAP (Policy Administration Point) service,Recommended
+org.glite.Argus.PDP,Argus PDP (Policy Decision Point) service,Recommended
+org.glite.Argus.PEP,Argus PEP Server (Policy Enforcement Point) service,Recommended
 org.glite.ce.CREAM,CREAM CE job submission web service,Recommended
 org.glite.ce.Monitor,CREAM CE CEMon web service,Recommended
 org.glite.fts,gLite file transfer service,Recommended
