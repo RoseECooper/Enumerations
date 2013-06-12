@@ -4,6 +4,12 @@
 #   Maintainer: Florido Paganelli florido.paganelli@hep.lu.se
 ###############################################################################
 
+v0.3 Florido Paganelli 2103-06-12
+
+   * Added Argus ServiceType_t provided by Valery Tschopp
+   * Changed format for ServiceType_t to quoted text for multiline 
+     description
+
 v0.2 Florido Paganelli 2013-06-12
  
    * Added Capability_t.csv with EMI-related capabilities.
