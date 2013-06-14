@@ -2,7 +2,7 @@
 #        GLUE2 Open Enumerations Registry
 #   URL: http://redmine.ogf.org/projects/glue-wg
 #   Maintainer: Florido Paganelli florido.paganelli@hep.lu.se
-#   Last update: 2012-12-07
+#   Last update: 2013-06-14
 ###############################################################################
 
 § Table of Contents
@@ -10,12 +10,17 @@
   1. Version History
   2. What are Open Enumerations
   3. How to add new enumerations
-
+  4. Documents in 'draft' status
 
 +++++++++++++++++++++++++++
 § 1. Version History
 +++++++++++++++++++++++++++
-v0.1 - Initial release. 2012-12-07
+This document:
+v0.2 - Updated rules for 'draft' documents. 2013-06-14
+v0.1 - Initial release. 2012-12-07'
+
+For version history of the whole set of Enumerations documents, 
+please refer to ChangeLog.txt
 
 ++++++++++++++++++++++++++++++++
 § 2. What are Open Enumerations
@@ -52,4 +57,21 @@ Send the list of Open Enumerations provided by a description for
 each entry, and a reference to the organization that forged them.
 
 Each enumeration string has his own format, please refer to [1] to know
-what format to use.
+what format to use. At the moment this is still work in progress.
+
++++++++++++++++++++++++++++++++++
+§ 4. Documents in 'draft' status
++++++++++++++++++++++++++++++++++
+
+Some of the GLUE2 CSV documents are named
+
+  <type>-draft.csv
+  
+Example: Capability_t-draft.csv
+
+Such documents contain strings whose status has not yet been 
+approved/revised by the GLUE2 Working Group. They can be used by 
+consumers, but they are subject to change.
+
+Some of the strings in such documents MUST be considered valid but not 
+official.

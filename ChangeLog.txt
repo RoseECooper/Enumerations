@@ -4,6 +4,11 @@
 #   Maintainer: Florido Paganelli florido.paganelli@hep.lu.se
 ###############################################################################
 
+v0.4 Florido Paganelli 2013-06-14
+ 
+   * Renamed Capability_t.csv to Capability_t-draft.csv as there is not
+     yet consensus from the GLUE2 group on the contents.
+
 v0.3 Florido Paganelli 2103-06-12
 
    * Added Argus ServiceType_t provided by Valery Tschopp
