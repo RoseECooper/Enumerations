@@ -4,6 +4,9 @@
 #   Maintainer: Florido Paganelli florido.paganelli@hep.lu.se
 ###############################################################################
 
+v0.5 Florido Paganelli 2014-03-25
+   * added ServiceType_t-draft.csv for approval
+
 v0.4 Florido Paganelli 2013-06-14
  
    * Renamed Capability_t.csv to Capability_t-draft.csv as there is not
