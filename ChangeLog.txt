@@ -6,6 +6,9 @@
 
 v0.5 Florido Paganelli 2014-03-25
    * added ServiceType_t-draft.csv for approval
+   * added InterfaceName_t-draft and PolicyScheme_t-draft for approval
+   * changed first line to <EnumerationName_t> for each document so to
+     be consistent with filename.
 
 v0.4 Florido Paganelli 2013-06-14
  

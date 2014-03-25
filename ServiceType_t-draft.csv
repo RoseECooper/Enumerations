@@ -1,4 +1,4 @@
-"ServiceType","Description","Status"
+"ServiceType_t","Description","Status"
 "APEL","[Site service] This is a ""dummy"" Service Type to enable the monitoring tests for APEL accounting. All sites must have one instance of this Service Type, associated with a CE. ","Recommended"
 "BDII","glite/LCG BDII ldap server (generic) ","Recommended"
 "bdii_site","glite/LCG BDII ldap server (site-level info) ","Recommended"
@@ -116,6 +116,7 @@ sites running a WMS. One LB service can support several WMS instances.","Depreca
 "ch.cern.cvmfs.stratum.0","missing",
 "ch.cern.cvmfs.stratum.1","missing",
 "org.globus.gram","missing",
+"org.globus.gsissh","missing",
 "org.qcg.computing","QosCosGrid computing element",
 "org.qcg.notification","QosCosGrid notification broker",
 "org.qcg.broker","QosCosGrid metascheduling service",

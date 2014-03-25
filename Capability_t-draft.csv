@@ -1,4 +1,4 @@
-"Capability","Description","Status"
+"Capability_t","Description","Status"
 "data.access.flatfiles","capacity of providing access to a flat file","Recommended"
 "data.access.relational","capacity of providing access to a relational data source","Recommended"
 "data.access.xml","capacity of providing access to an XML data source","Recommended"

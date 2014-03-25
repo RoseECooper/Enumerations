@@ -1,0 +1,7 @@
+"InterfaceName_t","Description","Status"
+"org.globus.gram","missing",
+"org.globus.gsissh","missing",
+"org.webdav/webdav","unclear, might need to be checked against existing ones",
+"org.xrootd","unclear, might need to be checked against existing ones",
+"org.qcg.broker","QCG-Broker web service interface",
+"org.oasis.notification","OASIS WS-Notification standard. However, this name is (obviously) not mentioned in GFD.80 what defines the capability.",
