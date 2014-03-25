@@ -1,0 +1,122 @@
+"ServiceType","Description","Status"
+"APEL","[Site service] This is a ""dummy"" Service Type to enable the monitoring tests for APEL accounting. All sites must have one instance of this Service Type, associated with a CE. ","Recommended"
+"BDII","glite/LCG BDII ldap server (generic) ","Recommended"
+"bdii_site","glite/LCG BDII ldap server (site-level info) ","Recommended"
+"bdii_top","glite/LCG BDII ldap server (grid-wide info) ","Recommended"
+"CE","[Site service] The LCG Compute Element. Currently the standard CE 
+within the gLite middleware stack. Soon to be replaced by the CREAM CE. ","Recommended"
+"egi.GRIDVIEW","[Central service] The central gridview portal","Recommended"
+"egi.GSTAT","[Central service] The central GStat portal","Recommended"
+"egi.MetricsPortal","[Central service] The central metrics portal","Recommended"
+"egi.NetworkPortal","[Central service] The central network portal","Recommended"
+"egi.OpsPortal","[Central service] The central operations portal","Recommended"
+"eu.egi.AccountingPortal","[Central service] The central accounting portal","Recommended"
+"eu.egi.APELRepository","[Central service] The central APEL repository","Recommended"
+"eu.egi.GGUS","[Central service] The central GGUS","Recommended"
+"eu.egi.GOCDB","[Central service] The central GOCDB","Recommended"
+"eu.egi.MSGBroker","[Central service] The central message broker","Recommended"
+"gLExec","[Site service] A light-weight gatekeeper to authenticate and authorize credentials according to local site policy and execute commands. https://www.nikhef.nl/pub/projects/grid/gridwiki/index.php/GLExec","Recommended"
+"gLite-APEL","[Site service] The gLite-APEL hosts the site Accounting client (3.2 replacement of the MonBox)","Recommended"
+"MDS-GIIS","old Globus MDS GIIS ldap server ","Recommended"
+"MyProxy","MyProxy Server","Recommended"
+"ngi.OpsPortal","[Regional service] NGI-level regional operations portal instance ","Recommended"
+"OpenSSH","ssh server ","Recommended"
+"org.dcache.storage","<missing>","Recommended"
+"org.glite.AMGA","glite metadata catalogue ","Recommended"
+"org.glite.argus","Argus service","Deprecated
+Obsolete"
+"org.glite.Argus","Argus Authorization Service","Recommended"
+"org.glite.Argus.PAP","Argus PAP (Policy Administration Point) service","Recommended"
+"org.glite.Argus.PDP","Argus PDP (Policy Decision Point) service","Recommended"
+"org.glite.Argus.PEP","Argus PEP Server (Policy Enforcement Point) service","Recommended"
+"org.glite.ce.CREAM","CREAM CE job submission web service","Recommended"
+"org.glite.ce.Monitor","CREAM CE CEMon web service","Recommended"
+"org.glite.fts","gLite file transfer service","Recommended"
+"org.glite.lb","gLite Logging and Booking Service","Recommended"
+"org.glite.voms","VOMS server, primary interface ","Recommended"
+"org.glite.wms","gLite Workload Management Service","Recommended"
+"org.irods.irods3"," An Integrated Rule-Oriented Data System for grids. 
+","Recommended"
+"org.lcg.Frontier","LCG-packaged Frontier database interface ","Recommended"
+"org.lcg.Squid","LCG-packaged squid database cache ","Recommended"
+"org.nordugrid.arex","NorduGrid Resource Coupled Execution Service","Recommended"
+"org.nordugrid.egiis","ARC Enhanced Grid Information Indexing Service","Recommended"
+"org.nordugrid.storage","NorduGrid Storage Service","Recommended"
+"org.ogf.bes.BESFactory",,"Recommended"
+"org.ogf.bes.BESManagement",,"Recommended"
+"org.ogf.glue.emir","recommended but needs to be explained","Recommended"
+"pbs.torque.maui ","PBS batch system ","Recommended"
+"pbs.torque.server ","PBS batch system ","Recommended"
+"SGAS","[Site service] An accounting service used by ARC. ","Recommended"
+"UI","[User service] The User Interface. Can be installed by users but more commonly installed by a site.","Recommended"
+"unicore6.Registry","[Central service] All UNICORE services register here; clients ask the registry for available services in the Grid. Normally one Registry per Grid infrastructure which collects URLs of services","Recommended"
+"unicore6.ServiceOrchestrator","[Site service] Handles dispatching of a workflow's atomic jobs, and brokering. Normally there is one per grid infrastructure.","Recommended"
+"unicore6.StorageFactory"," [Site service] Creates StorageManagement instances. A user can create 
+dynamic storage management services for own purposes with it. Often used
+ to provide filespace during workflow execution.","Recommended"
+"unicore6.StorageManagement","  [Site service] Provides an abstract filesystem-like view on a 
+storage resource. A Storage Management Service (SMS) can be created by a
+ Storage Factory or can be configured statically way by a config file.","Recommended"
+"unicore6.TargetSystemFactory","[Site service] used as an entry-point for submitting single jobs. It can
+ create Target System Services (TSSs) and submit jobs to those TSSs.","Recommended"
+"unicore6.UVOSAssertionQueryService","[Site service] Provides data and user information via the SAML standard as needed for authorization and environment customization. ","Recommended"
+"unicore6.WorkflowFactory","[Site service] Used as an entrypoint for submitting workflow jobs. The 
+Workflow factory is creating workflow instances and can submit workflows
+ to them. It is the workflow submission equivalent to the Target System 
+Factory used for single job submission.","Recommended"
+"VOBOX","LCG/glite VO server Service","Recommended"
+"xroot ","xrootd server (file access) ","Recommended"
+"xrootd ","xrootd server (file access) (deprecated)","Recommended"
+"org.nordugrid.isis","NorduGrid Information Index Service","Obsolete
+Recommended"
+"org.glite.FiremanCatalog",,"Obsolete"
+"org.glite.Metadata",,"Obsolete"
+"org.glite.SEIndex",,"Obsolete"
+"org.nordugrid.information.aris","ARC Resource-level Information System service","Deprecated
+Obsolete"
+"org.teragrid.condor-g","TeraGrid Condor-g","Deprecated
+Obsolete"
+"org.teragrid.globus-mds4","TeraGrid Globus MDS 4","Deprecated
+Obsolete"
+"org.teragrid.gpfs","TeraGrid GPFS","Deprecated
+Obsolete"
+"org.teragrid.gridftp","TeraGrid Gridftp","Deprecated
+Obsolete"
+"org.teragrid.openssh","TeraGrid gsi-enabled openssh","Deprecated
+Obsolete"
+"org.teragrid.prewsgram","TeraGrid pre-WS Globus GRAM","Deprecated
+Obsolete"
+"org.teragrid.rft","TeraGrid Reliable File Transfer","Deprecated
+Obsolete"
+"org.teragrid.srb","TeraGrid Storage Resource Broker","Deprecated
+Obsolete"
+"org.teragrid.ws-delegation","TeraGrid WS-Delegation Service","Deprecated
+Obsolete"
+"org.teragrid.ws-gram","TeraGrid WS-GRAM Service","Deprecated
+Obsolete"
+"org.teragrid.ws-ogsadai","TeraGrid OGSA-DAI","Deprecated
+Obsolete"
+"ResourceBroker","old LCG/EDG resource broker ","Deprecated
+Obsolete"
+"AMGA","[Central service] gLite metadata catalogue. This service only needs to be installed on the request of a VO.","Deprecated"
+"ARC-CE","[Site service] The Compute Element within the ARC middleware stack.","Deprecated"
+"CREAM-CE"," [Site service] The CREAM Compute Element is the new CE within the gLite middleware stack.","Deprecated"
+"FTS","[Central service] The gLite File Transfer Service manages the transfer
+ of files between sites. This service only needs to be installed on the 
+request of a VO.","Deprecated"
+"LB","[Central service] gLite Logging and Bookkeeping. Usually installed by 
+sites running a WMS. One LB service can support several WMS instances.","Deprecated"
+"org.nordugrid.execution.arex","ARC Resource-coupled EXecution service","Deprecated"
+"Site-BDII","[Site service] This service collects and publishes site's data for the Information System. All sites MUST install one Site-BDII. ","Deprecated"
+"Top-BDII","[Central service] The ""top-level BDII"". These collect and publish the data from site-BDIIs. Only a few instances per region are required. ","Deprecated"
+"VO-box","[Site service] The gLite VO box allows a VO to run their own services at a site. This service only needs to be installed on the request of a VO.","Deprecated"
+"VOMS","[Central service] VO Management System. Part of the authentication and authorization system. This service only needs to be installed on the request of a VO.","Deprecated"
+"WMS","[Central service] gLite Workload Management Service. Acts as the broker for matching user jobs to available computing resources. ","Deprecated"
+"xrootd.redirector","A component of the XRootD suite",
+"ch.cern.cvmfs.stratum.0","missing",
+"ch.cern.cvmfs.stratum.1","missing",
+"org.globus.gram","missing",
+"org.qcg.computing","QosCosGrid computing element",
+"org.qcg.notification","QosCosGrid notification broker",
+"org.qcg.broker","QosCosGrid metascheduling service",
+"DPM","under discussion, not clear to me",
