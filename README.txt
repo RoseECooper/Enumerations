@@ -2,7 +2,7 @@
 #        GLUE2 Open Enumerations Registry
 #   URL: http://redmine.ogf.org/projects/glue-wg
 #   Maintainer: Florido Paganelli florido.paganelli@hep.lu.se
-#   Last update: 2013-06-14
+#   Last update: 2014-04-04
 ###############################################################################
 
 § Table of Contents
@@ -16,11 +16,19 @@
 § 1. Version History
 +++++++++++++++++++++++++++
 This document:
+v0.3 - Linked document with updated information. 2014-04-04
 v0.2 - Updated rules for 'draft' documents. 2013-06-14
 v0.1 - Initial release. 2012-12-07'
 
 For version history of the whole set of Enumerations documents, 
 please refer to ChangeLog.txt
+
+**************************************************************
+  Up-to-date information about procedures and formats of
+  CSV files is ongoing on the group mailing list.
+  Currently under discussion:
+   http://redmine.ogf.org/dmsf_files/13228?download=
+**************************************************************
 
 ++++++++++++++++++++++++++++++++
 § 2. What are Open Enumerations
@@ -75,3 +83,8 @@ consumers, but they are subject to change.
 
 Some of the strings in such documents MUST be considered valid but not 
 official.
+
+In this release, -draft.csv files contain 
+a new way of finding out how to substitute a Deprecated enumeration 
+with a Recommended one is proposed, and its effectiveness 
+is currently under discussion within the group.

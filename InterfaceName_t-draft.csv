@@ -1,7 +1,9 @@
-"InterfaceName_t","Description","Status"
-"org.globus.gram","missing",
-"org.globus.gsissh","missing",
-"org.webdav/webdav","unclear, might need to be checked against existing ones",
-"org.xrootd","unclear, might need to be checked against existing ones",
-"org.qcg.broker","QCG-Broker web service interface",
-"org.oasis.notification","OASIS WS-Notification standard. However, this name is (obviously) not mentioned in GFD.80 what defines the capability.",
+"InterfaceName_t","Description","Status","Recommended","Deprecates"
+"org.globus.gram","job submission service for Globus","Recommended",,"GRAM5"
+"GRAM5","job submission service for Globus version 5.x (GRAM5)","Deprecated","org.globus.gram","Globus-GSISSHD"
+"org.globus.gsissh","certificate based interactive login service for the Globus middleware stack. ","Recommended",,
+"Globus-GSISSHD","certificate based interactive login service for the Globus middleware stack. ","Deprecated","org.globus.gsissh",
+"org.qcg.broker","QCG-Broker web service interface","Recommended",,"QCG.Broker"
+"QCG.Broker","QosCosGrid resource management and brokering service.","Deprecated","org.qcg.broker",
+"org.webdav/webdav","unclear, might need to be checked against existing ones",,,
+"org.xrootd","unclear, might need to be checked against existing ones",,,
