@@ -5,6 +5,15 @@
 #   Last update: 2014-05-02
 ###############################################################################
 
+***********************************************************
+Procedures and best practices regarding Open Enumerations
+are still under discussion within the group.
+A proposal is here:
+
+   http://redmine.ogf.org/dmsf_files/13224?download=
+   
+***********************************************************
+
 § Table of Contents
 
   1. Version History
