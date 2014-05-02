@@ -4,6 +4,14 @@
 #   Maintainer: Florido Paganelli florido.paganelli@hep.lu.se
 ###############################################################################
 
+v1.0 Florido Paganelli 2014-05-02
+   * Added Release Notes in README file.
+   * Changed CSV structure to make it easy to have one big file with
+     all enumerations. See README.txt for details.
+   * Changed CSV structure to highlight Deprecated and Recommended
+     values. See README.txt for details.
+   * Added a script to merge all documents into one.
+   
 v0.6 Florido Paganelli 2014-04-04
 
    * Updated README.txt

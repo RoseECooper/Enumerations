@@ -1,2 +1,2 @@
-"PolicyScheme_t","Description","Status"
-"org.globus.standard","missing",
+"EnumerationType","EnumerationValue","Description","Status","Recommended","Deprecates"
+"PolicyScheme_t","org.globus.standard","pending answer",,,
