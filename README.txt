@@ -29,7 +29,8 @@ A proposal is here:
 § 1. Version History
 +++++++++++++++++++++++++++
 This document:
-v0.4 - Release 1.0: Added Release Notes and sections 6 and 7.
+v0.4 - Release 1.0: Added Document conventions, Release Notes 
+       and sections 7-8.
 v0.3 - Linked document with updated information. 2014-04-04
 v0.2 - Updated rules for 'draft' documents. 2013-06-14
 v0.1 - Initial release. 2012-12-07
