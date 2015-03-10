@@ -85,3 +85,5 @@
 "InterfaceName_t","org.oasis.notification","OASIS WS-Notification standard.","Recommended",,
 "InterfaceName_t","org.qcg.broker","QCG-Broker web service interface","Recommended",,"QCG.Broker"
 "InterfaceName_t","QCG.Broker","QosCosGrid resource management and brokering service.","Deprecated","org.qcg.broker",
+"InterfaceName_t","org.webdav/webdav","unclear, might need to be checked against existing ones",,,
+"InterfaceName_t","org.xrootd","unclear, might need to be checked against existing ones",,,
