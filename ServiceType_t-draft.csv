@@ -135,5 +135,4 @@ Factory used for single job submission.","Recommended",,
 "ServiceType_t","DPM","under discussion, not clear",,,
 "ServiceType_t","org.dpm.storage","Disk Pool Manager (DPM). Lightweigth solution for disk storage management.",,,
 "ServiceType_t","org.storm.storage","Storage Resource Manager (StoRM). File system independent storage manager service.",,,
-"ServiceType_t","org.opensciencegrid.htcondorce","A special configuration of the HTCondor software designed to be a job gateway solution
-for the OSG","Recommended",,
+"ServiceType_t","org.opensciencegrid.htcondorce","A special configuration of the HTCondor software designed to be a job gateway solution for the OSG","Recommended",,
