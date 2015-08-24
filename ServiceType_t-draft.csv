@@ -53,8 +53,12 @@ Obsolete","org.glite.Argus",
 "ServiceType_t","org.glite.wms","gLite Workload Management Service","Recommended",,"WMS"
 "ServiceType_t","org.globus.gram","job submission service for Globus","Recommended",,"GRAM5"
 "ServiceType_t","org.globus.gsissh","certificate based interactive login service for the Globus middleware stack","Recommended",,"Globus-GSISSHD"
-"ServiceType_t","org.irods.irods3"," An Integrated Rule-Oriented Data System for grids. 
-","Recommended",,
+"ServiceType_t","org.irods.irods3","An Integrated Rule-Oriented Data System for grids, Version 3.","Recommended",,
+"ServiceType_t","org.irods.irods4","An Integrated Rule-Oriented Data System for grids, Version 4.","Recommended",,
+"ServiceType_t","org.irods.irods3.icat","iRODS metadata catalog server Version 3.","Recommended",,
+"ServiceType_t","org.irods.irods4.icat","iRODS metadata catalog server Version 4.","Recommended",,
+"ServiceType_t","org.irods.irods3.resource","iRODS resource server Version 3.","Recommended",,
+"ServiceType_t","org.irods.irods4.resource","iRODS resource server Version 4.","Recommended",,
 "ServiceType_t","org.lcg.Frontier","LCG-packaged Frontier database interface ","Recommended",,
 "ServiceType_t","org.lcg.Squid","LCG-packaged squid database cache ","Recommended",,
 "ServiceType_t","org.nordugrid.arex","NorduGrid Resource Coupled Execution Service","Recommended",,"ARC-CE
@@ -131,3 +135,4 @@ Factory used for single job submission.","Recommended",,
 "ServiceType_t","DPM","under discussion, not clear",,,
 "ServiceType_t","org.dpm.storage","Disk Pool Manager (DPM). Lightweigth solution for disk storage management.",,,
 "ServiceType_t","org.storm.storage","Storage Resource Manager (StoRM). File system independent storage manager service.",,,
+"ServiceType_t","org.opensciencegrid.htcondorce","A special configuration of the HTCondor software designed to be a job gateway solution for the OSG","Recommended",,
