@@ -132,3 +132,5 @@ Factory used for single job submission.","Recommended",,
 "ServiceType_t","xroot ","xrootd server (file access) ","Recommended",,
 "ServiceType_t","xrootd ","xrootd server (file access) (deprecated) ","Recommended",,
 "ServiceType_t","xrootd.redirector","A component of the XRootD suite","Recommended",,
+"ServiceType_t","org.opensciencegrid.htcondorce","A special configuration of the HTCondor software designed to be a job gateway solution
+for the OSG","Recommended",,
