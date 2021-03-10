@@ -85,3 +85,4 @@
 "InterfaceName_t","org.oasis.notification","OASIS WS-Notification standard.","Recommended",,
 "InterfaceName_t","org.qcg.broker","QCG-Broker web service interface","Recommended",,"QCG.Broker"
 "InterfaceName_t","QCG.Broker","QosCosGrid resource management and brokering service.","Deprecated","org.qcg.broker",
+"InterfaceName_t","webdav","A set of extensions to the http protocol which allows users to collaboratively edit and manage files on remote web servers","Recommended",,
